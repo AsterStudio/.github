@@ -35,7 +35,7 @@ A social nutrition companion that makes healthy eating simple, engaging, and sus
 ### 🌌 Orrery
 An immersive interactive app for exploring the Solar System and understanding astronomy through beautiful visualizations.
 
-**Status:** Coming soon to App Store
+**Status:** Live at https://apps.apple.com/us/app/orrery-a-solar-system/id6788141567
 
 ---
 
