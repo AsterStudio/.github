@@ -39,10 +39,10 @@ An immersive interactive app for exploring the Solar System and understanding as
 
 ---
 
-### 🐾 Pet Doodle
+### 🐾 Pet Doodle [Experimental]
 Turn pet photos into charming hand-drawn doodles in seconds.
 
-**Status:** Live at https://petdoodle.art/ 
+**Status:** Experimenting at https://petdoodle.art/ 
 
 ---
 
